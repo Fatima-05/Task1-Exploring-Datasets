@@ -20,4 +20,4 @@ None
 - Few outliers detected mainly in sepal.width.
 - Visualizations (scatter plot, histograms, box plots) successfully demonstrate data distributions and relationships.
 
-**Notebook**: [Task_1_Iris_Exploration.ipynb](Task_1_Iris_Exploration.ipynb) https://colab.research.google.com/drive/1W6ExcogHh63WqSt1lhYPkUFbaTXazCUQ?usp=sharing
+**Notebook**: https://colab.research.google.com/drive/1W6ExcogHh63WqSt1lhYPkUFbaTXazCUQ?usp=sharing
